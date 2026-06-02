@@ -1,10 +1,8 @@
-# Hi, I'm Badar Ali Waqar
+# I'm Badar Ali Waqar
 
-I am a Software Engineer with a strong interest in backend development, cloud computing, artificial intelligence, and connected systems.
+I am a **Software Engineer** with a strong interest in backend development, cloud computing, artificial intelligence, and connected systems. I currently work at Ariston Group on backend solutions for mobile, web, and **IoT** applications, mainly using **Python** and **AWS**. My work focuses on REST APIs, process optimization, data analysis, and building reliable software services that support real-world digital products.
 
-I currently work at Ariston Group on backend solutions for mobile, web, and IoT applications, mainly using Python and AWS. My work focuses on REST APIs, process optimization, data analysis, and building reliable software services that support real-world digital products.
-
-In my previous experience as a Backend Developer, I worked on ERP development with Odoo. I have also worked on projects involving Machine Learning, logistics optimization, cross-platform mobile applications, and data-driven systems using technologies such as Python, FastAPI, React Native, Docker, PostgreSQL, MongoDB, and MQTT.
+In my previous experience as a Backend Developer, I worked on ERP development with Odoo. I have also worked on projects involving Machine Learning, logistics optimization, and data-driven systems using technologies such as Python, Docker, PostgreSQL and MQTT.
 
 My academic background is in Computer and Automation Engineering at Universita Politecnica delle Marche, where I worked on projects related to data science, cybersecurity, computer vision, Big Data, predictive analytics, and intelligent automation. I also participated in international research and development activities involving Process Mining and AI-based prediction at Eindhoven University of Technology.
 
@@ -12,14 +10,13 @@ My academic background is in Computer and Automation Engineering at Universita P
 
 - Backend development
 - Software engineering
-- Cloud computing
 - Artificial Intelligence
 - IoT and connected systems
 - Process optimization and data analysis
 
 ## Skills
 
-Python, AWS, FastAPI, REST APIs, Linux, Odoo, Docker, PostgreSQL, MongoDB, MQTT, React Native.
+Python, AWS, FastAPI, REST APIs, Linux, Odoo, Docker, PostgreSQL, Pulumi, MQTT.
 
 ## Languages
 
